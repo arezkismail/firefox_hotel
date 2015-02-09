@@ -7,7 +7,7 @@ body {
   font-size: 1rem;
   background: #dddddd;
   border:1px solid black;
-  width:508px;
+  width:420px;
 }
 
 h1 {
@@ -25,13 +25,13 @@ p {
 #googleMap{/**map_canvas*/
 
 border:1px solid black;
-width:500px;
-height:400px;
+width:420px;
+height:320px;
 /** margin-top:100px;*/
  }
  #entete{
  border:1px solid black;
-width:500px;
+width:420px;
 height:50px;
 background-color : #cccccc;
 margin-bottom:10px;

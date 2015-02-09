@@ -33,7 +33,7 @@ using innerHTML can be dangerous.
 });
 
 */
-///////////////////////////////////////////////Précedant//////////////////////////////////////
+///////////////////////////////////////////////Prï¿½cedant//////////////////////////////////////
 /**
 var myCenter=new google.maps.LatLng(51.508742,-0.120850);
 
@@ -58,23 +58,23 @@ var myMarker = new google.maps.Marker({
 	      position: null,
 animation:google.maps.Animation.BOUNCE,
 	      map: map,
-	      title: "Palais de l\'Elysée"
+	      title: "Palais de l\'Elysï¿½e"
 	    });
 		
 		var myMarker2 = new google.maps.Marker({
 	      position: null,
 animation:google.maps.Animation.BOUNCE,
 	      map: map,
-	      title: "Palais de l\'Elysée"
+	      title: "Palais de l\'Elysï¿½e"
 	    });
 function GeocodingResult( results , status )
 	{
-	  // Si la recher à fonctionné
+	  // Si la recher ï¿½ fonctionnï¿½
 	  if( status == google.maps.GeocoderStatus.OK ) {
  
 	    
  
-	    // On créé donc un nouveau marker sur l'adresse géocodée
+	    // On crï¿½ï¿½ donc un nouveau marker sur l'adresse gï¿½ocodï¿½e
 	    
  myMarker.setPosition(results[0].geometry.location);
   //myMarker2.setPosition(results[0].geometry.location);
